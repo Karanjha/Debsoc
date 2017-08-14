@@ -1,0 +1,13 @@
+.header h1{
+    color:#FF69B4;
+
+}
+.header h2{
+    color: black;
+}
+.header {
+    height: 150px;
+    width:100%;
+    background-position-y: 50px;
+    background-image: url("backg.jpg");
+}
